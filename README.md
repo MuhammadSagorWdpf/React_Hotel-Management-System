@@ -22,7 +22,7 @@ You may also see any lint errors in the console.
 
  ## localhost:3000/admin 
  first login admin panel 
- ## sagorwdpf@gmail.com
+ ## Username:sagorwdpf@gmail.com
  ## password:123456
  for catching  booking confirm notification you also use 
  your gmail && your app password 
