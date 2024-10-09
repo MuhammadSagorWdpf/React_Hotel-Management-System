@@ -1,0 +1,53 @@
+/* Center container styles */
+.center {
+    display: flex; /* Change from inline-block to flex */
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0; /* Space above and below */
+  }
+  
+  /* Dropdown container styles */
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Space between dropdowns */
+  }
+  
+  /* TextField styles */
+  .search-room-input {
+    display: inline-block; /* Ensure it displays inline */
+    width: 100%; /* Ensure full width */
+    max-width: 300px; /* Limit maximum width */
+    margin: 10px; /* Space around the input */
+    box-sizing: border-box; 
+    /* Include padding and border in the element's total width and height */
+    width: 40%;
+    margin: 20px !important;
+  }
+  
+  /* Label styles */
+  .MuiInputLabel-root {
+    font-size: 1rem; /* Adjust label font size */
+    color: #333; /* Label color */
+  }
+  
+  /* MenuItem styles */
+  .MuiMenuItem-root {
+    font-size: 0.9rem; /* Adjust item font size */
+  }
+  
+  /* Styling for the dropdown when selected */
+  .MuiSelect-root {
+    border-radius: 4px; /* Rounded corners */
+    border: 1px solid #ddd; /* Border color */
+    padding: 8px; /* Padding inside the dropdown */
+    background-color: #fff; /* Background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  /* Adjusting the selected item styling */
+  .MuiSelect-select {
+    padding: 8px; /* Padding for selected item */
+  }
+  

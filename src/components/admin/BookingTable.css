@@ -1,0 +1,87 @@
+/* Table styles */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  button{
+    width: 20px;
+    margin: 5px;
+    font-size: small;
+    position: relative;
+  }
+  
+  .table, th, td {
+    border: 1px solid black;
+    font-size: 15px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .card-body {
+    margin: 20px;
+  }
+  
+  /* Pagination styles */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    padding: 10px 10px;
+    margin: 0 5px;
+    border: none;
+    background-color: #43474b;
+    color: rgb(63, 62, 66);
+    cursor: pointer;
+    width: 20%;
+  }
+  
+  .pagination button:disabled {
+    background-color: #4773a5;
+    cursor: not-allowed;
+  }
+  
+  .pagination span {
+    align-self: center;
+  }
+  .sagor
+  {
+    color: blue;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .table, th, td {
+      font-size: 5px;
+    }
+  
+    .pagination {
+      flex-direction: column;
+    }
+  
+    .pagination button {
+      width: 100%;
+      margin: 5px 0;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .table, th, td {
+      font-size: 12px;
+    }
+  }
+  .main-container
+  {
+    width: 100%;
+    background-color: white;
+  }
+  table 
+  {
+    width: 50%;
+  }
+  
