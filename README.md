@@ -28,11 +28,12 @@ You may also see any lint errors in the console.
  your gmail && your app password 
  
 ## This Project Features is available:
-1.User interface.
-2.Admin interface.
-3.user room booking.
-4. same date only one user will can booking room.
+1.User interface.<br>
+2.Admin interface.<br>
+3.user room booking.<br>
+4. same date only one user will can booking room.<br>
 5.Admin manage booking system. He will maintain all of things.
+
 ## Screenshots:
 
 
