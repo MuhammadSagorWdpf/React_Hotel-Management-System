@@ -55,7 +55,7 @@ const Contact = () => {
               </div>
               <div className='text'>
                 <h3>Address</h3>
-                <p>4671 Sugar Camp Road , <br />Owaton, Minnesota, <br />55060</p>
+                <p>Khilgaon,Dhaka-1219</p>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ const Contact = () => {
               </div>
               <div className='text'>
                 <h3>Phone</h3>
-                <p>507-475-6094</p>
+                <p>01568393086</p>
               </div>
             </div>
 
@@ -75,7 +75,7 @@ const Contact = () => {
               </div>
               <div className='text'>
                 <h3>Email</h3>
-                <p>5dsad21@gmail.com</p>
+                <p>sagorwdpf@gmail.com</p>
               </div>
             </div>
           </div>
